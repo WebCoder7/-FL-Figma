@@ -1,0 +1,685 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap'); */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+
+nav {
+    padding-top: 19px;
+    padding-bottom: 19px;
+    background-color:
+        #436591;
+}
+
+
+
+.list_iteam {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+
+.list {
+    display: flex;
+    gap: 24px;
+    cursor: pointer;
+}
+
+
+.koko {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+
+.gmail {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+.yellow {
+    margin-left: 120px;
+}
+
+
+.goooe {
+    width: 960px;
+    height: 400px;
+}
+
+
+.carousel-item {
+    width: 900px;
+    height: 400px;
+    background: rgb(255, 174, 0);
+    border: 1px solid #E4E9EF;
+    border-radius: 15px;
+}
+
+.marko {
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 53px;
+    color: #FFFFFF;
+    margin-top: 25px;
+    margin-left: 66px;
+}
+
+
+.lorems {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-left: 66px;
+}
+
+
+/* .carousel-control-prev{
+    margin-left: -40px;
+}
+
+
+.lolki{
+    margin-left: 60px;
+} */
+
+
+.btnm {
+    padding: 10px 49px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFFFFF;
+    background: #2FA56C;
+    border-radius: 10px;
+    border: none;
+    margin-left: 66px;
+    margin-top: 70px;
+}
+
+
+.btnmm {
+    padding: 10px 49px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFFFFF;
+    background: #1505f9;
+    border-radius: 10px;
+    border: none;
+    margin-left: 66px;
+    margin-top: 70px;
+}
+
+
+.btnmmm {
+    padding: 10px 49px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFFFFF;
+    background: #ff002b;
+    border-radius: 10px;
+    border: none;
+    margin-left: 66px;
+    margin-top: 70px;
+}
+
+
+.rawies {
+    margin-left: 60px;
+}
+
+
+.sthrs {
+    display: flex;
+    justify-content: end;
+    margin-top: -335px;
+}
+
+
+.hjar {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #1F2630;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+
+.list_lakalka {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #7A8698;
+}
+
+.list_lakalka:hover {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #1F2630;
+}
+
+.lakalka {
+    display: flex;
+    gap: 32px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+
+.cart {
+    background: #FFFFFF;
+    border: 1px solid #E4E9EF;
+    border-radius: 5px;
+    width: 240px;
+    height: 520px;
+    margin-bottom: 56px;
+}
+
+
+.text_color {
+    background: #FCBD14;
+    border-radius: 5px 5px 0px 0px;
+    width: 240px;
+    height: 9px;
+}
+
+
+.text_colorr {
+    background: #ff0202;
+    border-radius: 5px 5px 0px 0px;
+    width: 240px;
+    height: 9px;
+}
+
+
+.text_colorrr {
+    background: #0703ff;
+    border-radius: 5px 5px 0px 0px;
+    width: 240px;
+    height: 9px;
+}
+
+
+.tekker {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #1F2630;
+}
+
+
+.uulala {
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #1F2630;
+}
+
+
+.smillor {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #1F2630;
+    margin-left: 18px;
+    margin-bottom: 36px;
+}
+
+
+
+.danert {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #7A8698;
+    margin-left: 18px;
+}
+
+
+.danertr {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #1F2630;
+    margin-left: 35px;
+}
+
+
+.danertrr {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #1F2630;
+    margin-left: 80px;
+}
+
+
+.gggggd {
+    display: flex;
+    margin-bottom: 21px;
+}
+
+
+.ffff {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #1F2630;
+    margin-left: 18px;
+}
+
+
+.btmn {
+    padding: 10px 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #2FA56C;
+    border-radius: 10px;
+    border: none;
+    margin-left: 24px;
+}
+
+
+.qrelanboy {
+    background: url(./img/Vector\ \(2\).png);
+    /* width: 100%; */
+    width: 610px;
+    height: 152px;
+    margin-bottom: 18px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+
+.bobolar {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    padding-top: 29px;
+    margin-left: 90px;
+}
+
+
+.kkk0p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F2630;
+}
+
+
+.faolik {
+    margin-left: 40px;
+}
+
+
+.juler {
+    margin-bottom: 77px;
+}
+
+
+.vactor {
+    background: #FF6E3C;
+    padding: 30px 50px 20px 60px;
+    transform: skewX(-20deg);
+    border-radius: 20px;
+    -webkit-transform: skewX(-20deg);
+    -moz-transform: skewX(-20deg);
+    -ms-transform: skewX(-20deg);
+    -o-transform: skewX(-20deg);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.text-vector {
+    transform: skewX(20deg);
+    -webkit-transform: skewX(20deg);
+    -moz-transform: skewX(20deg);
+    -ms-transform: skewX(20deg);
+    -o-transform: skewX(20deg);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.section2 {
+    margin-top: 56px;
+    padding-top: 46px;
+    padding-bottom: 23px;
+    background: #fff;
+}
+
+
+.text-all-vector {
+    padding-top: 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2630;
+}
+
+.vector-two {
+    height: 152px;
+    background: #FFC50B;
+    transform: skewX(-20deg);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+
+.harb {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #1F2630;
+    padding-bottom: 16px;
+}
+
+
+.sections {
+    background: #FFFFFF;
+    border: 1px solid #E4E9EF;
+    box-shadow: 0px 20px 30px -15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    width: 960px;
+    height: 240px;
+    margin-left: 270px;
+    margin-top: 52px;
+    margin-bottom: 62px;
+}
+
+
+.polik {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F2630;
+    margin-bottom: 10px;
+}
+
+
+.plast {
+    padding-top: 21px;
+    padding-left: 28px;
+}
+
+
+.btn54 {
+    padding: 10px 50px;
+    border: none;
+    background: #FFFFFF;
+    border: 1px solid #00ce1f;
+    box-shadow: 0px 20px 30px -15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+
+
+.iloms {
+    width: 500px;
+    height: 238px;
+    margin-left: -32px;
+}
+
+
+.sariq {
+    background: linear-gradient(98.07deg, #ED6E44 -5.24%, #FCBD14 85.53%, #FFFFFF 126.15%), #F6AE96;
+    box-shadow: 0px 20px 30px -15px rgba(241, 131, 56, 0.6);
+    border-radius: 15px 15px 0px 0px;
+    width: 460px;
+    height: 220px;
+    padding-left: 27px;
+    padding-top: 15px;
+    margin-left: 75px;
+}
+
+
+.sariqq {
+    background: linear-gradient(120.27deg, #2FA56C -2.27%, #2389CA 104.54%), #FFFFFF;
+    box-shadow: 0px 20px 30px -15px rgba(40, 148, 168, 0.7);
+    border-radius: 15px 15px 0px 0px;
+    width: 460px;
+    height: 220px;
+    padding-left: 27px;
+    padding-top: 15px;
+    margin-left: 75px;
+}
+
+
+.besh {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+
+.abobolar {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+
+.ffddg {
+    display: flex;
+    justify-content: end;
+    margin-top: -228px;
+}
+
+
+.qoqush {
+    width: 460px;
+    height: 79px;
+    background: #f1f0f0;
+    border-radius: 0px 0px 15px 5px;
+    margin-left: -27px;
+}
+
+
+.btn34 {
+    padding: 10px 50px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F2630;
+    background: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 27px;
+    border: 2px solid #2FA56C;
+    border-radius: 10px;
+}
+
+
+.text_algoa {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    color: #1F2630;
+    margin-top: 160px;
+    margin-left: 70px;
+    margin-bottom: 45px;
+}
+
+
+.erlamjanjr {
+    width: 363px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2630;
+    margin-bottom: 30px;
+    border: none;
+
+}
+
+
+.solorich{
+    margin-left: 60px;
+}
+
+
+.wowjs{
+    width: 460px;
+    height: 0px;
+    border: 1px solid #7DBCE4;
+    margin-bottom: 32px;
+}
+
+
+.ulitsa{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F2630;
+    border: none;
+    margin-bottom: 30px;
+}
+
+
+.lokj{
+    margin-bottom: 30px;
+    border: none;
+}
+
+
+.wowjss{
+    width: 160px;
+    height: 0px;
+    border: 1px solid #7DBCE4;
+}
+
+
+.romance{
+    margin-left: 60px;
+}
+
+
+.shihu{
+    width: 260px;
+    height: 0px;
+    border: 1px solid #7DBCE4;
+}
+
+
+.yalongove{
+    border: none;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2630;
+}
+
+
+.lokalnima{
+    margin-left: 40px;
+}
+
+
+.domm{
+    border: none;
+    width: 33px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F2630;
+    margin-bottom: 30px;
+}
+
+
+.yyyyy{
+    width: 60px;
+    height: 0px;
+    border: 1px solid #7DBCE4;
+}
+
+
+.kbk{
+    width: 23px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F2630;
+    border: none;
+    margin-bottom: 30px;
+}
+
+
+.rre{
+    width: 60px;
+    height: 0px;
+    border: 1px solid #7DBCE4;
+}
+
+
+.taerie{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F2630;
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 21px;
+}
+
+
+.suoer{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F2630;
+    margin-left: 25px;
+    margin-top: -24px;
+}
+
+
+.gregr{
+    margin-left: 30px;
+    margin-bottom: 45px;
+}
+
+
